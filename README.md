@@ -2,6 +2,7 @@
 
 [![Tests][badge-tests]][link-tests]
 [![Documentation][badge-docs]][link-docs]
+[![codecov](https://codecov.io/gh/blengerich/auto_ehr/graph/badge.svg?token=GINWBZ63EJ)](https://codecov.io/gh/blengerich/auto_ehr)
 
 [badge-tests]: https://img.shields.io/github/actions/workflow/status/blengerich/auto_ehr/test.yaml?branch=main
 [link-tests]: https://github.com/blengerich/auto_ehr/actions/workflows/test.yml
