@@ -1,0 +1,23 @@
+{
+  "template": "https://github.com/scverse/cookiecutter-scverse",
+  "commit": "8a4b931453619c21ee88c66222d313b935e6e274",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "auto_ehr",
+      "package_name": "auto_ehr",
+      "project_description": "Automated Data Analysis of EHRs",
+      "author_full_name": "Ben Lengerich",
+      "author_email": "blengerich@gmail.com",
+      "github_user": "blengerich",
+      "project_repo": "https://github.com/blengerich/auto_ehr",
+      "license": "MIT License",
+      "_copy_without_render": [
+        ".github/workflows/**.yaml",
+        "docs/_templates/autosummary/**.rst"
+      ],
+      "_template": "https://github.com/scverse/cookiecutter-scverse"
+    }
+  },
+  "directory": null
+}
